@@ -17,6 +17,7 @@ The scope of this project is to make the shopping experience very user friendly 
 The Web App was developed using PHP and MySQL as Back-End and Bootstrap for Front-End.  
 Tools Used: VS code, Android Studio, XAMPP server, MySQL, Firebase.  
 ## *Team members:*
-* Sukhada Virkar- 1814119
 * Aiswarya Suresh- 1814122
 * Rhutuja Thakur- 1814128 
+* Sukhada Virkar- 1814119
+
