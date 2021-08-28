@@ -13,6 +13,8 @@ The scope of this project is to make the shopping experience very user friendly 
 * View product descriptions and compare prices for the same product all at once
 * Add to and remove products from shopping cart, place orders
 * Provide valuable feedback  
+## *Website Link:*
+The website has been successfully hosted and can be accessed using the link: https://freshmart-app.herokuapp.com/
 ## *Tech Stack Used:*
 The Web App was developed using PHP and MySQL as Back-End and Bootstrap for Front-End.  
 Tools Used: VS code, Android Studio, XAMPP server, MySQL, Firebase.  
